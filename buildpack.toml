@@ -1,0 +1,9 @@
+# Buildpack API version
+api = "0.2"
+
+# Buildpack ID and metadata
+[buildpack]
+id = "nicko170/ssh-private-key"
+version = "0.0.1"
+name = "Adds SSH private key to builder"
+homepage = "https://github.com/nicko170/ssh-private-key-buildpack"
